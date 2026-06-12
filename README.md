@@ -12,7 +12,9 @@ Replace YOUR_PROFESSIONAL_EMAIL before publishing if you want contact by email.
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.linux.org/)
 
-Incoming Master's student at CUHK-Shenzhen. CS undergraduate at Nankai University. Interested in LLM systems, RAG/Agents, and AI for Software Engineering.
+I'm an incoming Master's student at **The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen)** and a B.Eng. student in Computer Science and Technology at **Nankai University**.
+
+My current interests focus on **large language models, post-training, RAG/Agent systems, AI for software engineering, and evidence-grounded reasoning**.
 
 I enjoy building small but complete research-oriented systems: from data processing and model adaptation to evaluation, serving, and reproducible experiment workflows. I try to keep my projects inspectable, testable, and honest about their current limitations.
 
